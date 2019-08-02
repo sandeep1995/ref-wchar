@@ -30,7 +30,7 @@
   "homepage": "https://github.com/TooTallNate/ref-wchar",
   "dependencies": {
     "iconv": "2",
-    "ref": "*"
+    "ref": "lxe/ref#node-12"
   },
   "devDependencies": {
     "bindings": "~1.2.0",
